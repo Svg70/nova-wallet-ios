@@ -5,6 +5,7 @@ enum KnowChainId {
     static let kusamaAssetHub = "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a"
     static let polkadot = "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3"
     static let polkadotAssetHub = "68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f"
+    static let unique = "84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31"
     static let acala = "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c"
     static let edgeware = "742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b"
     static let karura = "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
